@@ -1,8 +1,6 @@
 flask
 python-dotenv
-openai
 langchain
-langchain-openai
 pandas
 numpy
 pymongo
