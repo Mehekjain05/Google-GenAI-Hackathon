@@ -94,10 +94,9 @@ This guide will walk you through the process of setting up your client project. 
 11. **Access Your Application:**
 
     Once the Flask server is running, you can access your application by visiting `http://localhost:4000` in your web browser.
+    
 
-Here’s the revised version with the shared database feature included:
-
-### Key Features of MindCraft
+# Key Features of MindCraft
 
 1. **Hierarchical Course Generation with Google Gemini:**
    - **Course Structure:** Google Gemini generates topics with summaries. When users select a topic, module summaries are created. For each submodule, detailed content such as descriptions, examples, and real-life applications are generated to provide a comprehensive learning experience.
@@ -130,5 +129,3 @@ Here’s the revised version with the shared database feature included:
 8. **AI-Powered Quizzes & Assessments:**
    - **Engaging Quizzes:** AI-generated quizzes evaluate theoretical, application-based, and conceptual knowledge, with real-time feedback provided to users.
    - **Conversational Assessments:** Text-to-speech AI tests users’ comprehension across various languages, enhancing the learning experience with diverse assessment methods.
-
-This updated feature set, along with the shared database and advanced AI capabilities, enhances MindCraft’s ability to deliver dynamic, personalized, and cost-efficient educational experiences.
